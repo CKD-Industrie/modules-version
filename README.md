@@ -1,2 +1,2 @@
-# modules-versions
-Versions of Dolibarr modules
+# modules-version
+Version of Dolibarr modules
